@@ -12,11 +12,9 @@ TODO: use Ivy.
 
 Running
 -------------------------------------------------------------
-You have to set some Java system properties when running the test.
-
 Here is an example of how to run the test:
 
-    java com.cloudera.Hadoop9912Test hdfs://localhost:6000 
+    java com.cloudera.Hadoop9912Test hdfs://localhost:6000/
 
 Contact information
 -------------------------------------------------------------
